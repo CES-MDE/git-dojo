@@ -1,0 +1,12 @@
+from cryptage.cesear import * 
+from cryptage.vigenere import *
+from cryptage.substitution import * 
+
+
+print("Voici le code 1 : W'nv qrf ivyyrf, znvf cnf qr znvfbaf. W'nv qrf sbergf, znvf cnf q'neoerf. W'nv qrf evivrerf, znvf cnf q'rnh. Ercbaqr n prggr rtavtzr cbhe bograve yn pyr qrpuvssentr qh qrhkvrzr rg gebcvfvrzr pbqr.")
+print("Indice : Le premier code à été encodé avec la méthode ceasar")
+print("Voici le code 2 : Nakbxwdv Gstd : hnetaemi-juzm hggixw eiejycnkx qknlmiu czguwaemi-juzm wgcfghgs uxyz cvgx qnqx qklcbioej ")
+print("Voici le code 3 : Noezmvuux Iut : uxyz dvzvis mbrit dbrwtvl hkx-exyh svvspdvl uwakki eeem xteemi-gt-lg qklcbjoej ")
+print("Voici le code 4 : Wnv ysks cxw eouxw felq iv tihmu rvlsnuj, nxklzlib vfmvg nfnzglcx gne jnv ne thhg czgu rolk xtoloit lr vpg dv lydskbxwtzhr hietpg ! ")
+print("Voici le code 5 : NBBKIIWWFDDRRAYYMMVTTHHQOO")
+print("Voici le code 6 : Wrhhrnfovvh vmgiv ovh ortmvh wv gvcgv, hv gilfevmg ovh vckolrgh wvh xibkgltizksvh - wvh vhkirgh zfwzxrvfc jfr lmg gizmhulinv ov nbhgviv vm nvhhztv, o'vmrtnv vm xozigv. Kzinr vfc, hv wivhhvmg wvh urtfivh wlmg oz wvgvinrmzgrlm vg o'rmtvmrlhrgv lmg nzijfv z qznzrh ov kzbhztv wv oz xibkgltizksrv. Wv o'zmgrjfrgv z o'viv nlwvimv, ovh krlmmrvih wv oz xibkgltizksrv lmg lfevig wv mlfevoovh elrvh wv oz xlmmzrhhzmxv. Kzinr vfc, wvh uvnnvh ivnzijfzyovh hv wrhgrmtfvmg kzi ovfi xlmgiryfgrlm vcxvkgrlmmvoov, hlfevmg wzmh o'lnyiv wvh ivxrgh srhglirjfvh. Kvmhlmh z Nzib, oz Ivrmv wvh Xlwvh, wlmg ov tvmrv z xszmtv ov xlfih wv o'srhglriv, lf z Zwz, oz Kirmxvhhv wvh Zotlirgsnvh, wlmg ovh rwvvh erhrlmmzrivh lmg vxozriv ov xsvnrm evih o'viv rmulinzgrjfv. Ovfih mlnh ivhlmmvmg, izkkvozmg oz ulixv vg oz kvihvevizmxv wvh uvnnvh wzmh fm wlnzrmv olmtgvnkh wlnrmv kzi ovh slnnvh. Vg jfv wriv wvh rmmlnyizyovh vhkirgh zmlmbnvh, wlmg ovh xlmgiryfgrlmh wrhxivgvh lmg vmirxsr ov grhhf wv oz xibkgltizksrv ? Ovfih vuuligh, hlfevmg lfyorvh, hlmg ovh ulmwzgrlmh hfi ovhjfvoovh ivklhvmg ovh kiltivh nlwvimvh. Zfqlfiw'sfr, mlfh slmlilmh ovfi svirgztv vm xlmgrmfzmg z vckolivi ovh nbhgvivh wf xsruuiv vg wv oz xov. Mlfh hlnnvh ovh svirgrvih wv ovfih wvxlfevigvh, vg mlfh kvikvgflmh ovfi kzhhrlm klfi o'zig vg oz hxrvmxv. Z glfh xvfc jfr lmg wvwrv ovfi erv z kvixvi ovh hvxivgh wvh ozmtztvh xlwvh, qv elfh ivmwh slnnztv. Elh xlmgiryfgrlmh lmg uzxlmmv ov kzhhv, vxozriv ov kivhvmg vg rmhkriv o'zevmri.")
